@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="team-moto-g/android_kernel_motorola_falcon_umts" path="kernel/motorola/falcon_umts" remote="github" revision="master" />
-  <project name="team-moto-g/android_device_motorola_falcon_umts" path="device/motorola/falcon_umts" remote="github" revision="master" />
-  <project name="TeamKeyblade/proprietary_vendor_motorola_falcon_umts" path="vendor/motorola/falcon_umts" remote="github" revision="master" />
+  <project name="team-moto-g/android_kernel_motorola_falcon_umts" path="kernel/motorola/falcon_umts" remote="github" revision="cm-11.0" />
+  <project name="team-moto-g/android_device_motorola_falcon_umts" path="device/motorola/falcon_umts" remote="github" revision="cm-11.0" />
+  <project name="team-moto-g/proprietary_vendor_motorola_falcon_umts" path="vendor/motorola/falcon_umts" remote="github" revision="cm-11.0" />
 </manifest>
