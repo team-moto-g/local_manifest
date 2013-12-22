@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="razrqcom-dev-team/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0" />
+  <project name="team-moto-g/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="cm-11.0" />
   <project name="team-moto-g/android_device_motorola_falcon_umts" path="device/motorola/falcon_umts" remote="github" revision="cm-11.0" />
   <project name="team-moto-g/proprietary_vendor_motorola_falcon_umts" path="vendor/motorola/falcon_umts" remote="github" revision="cm-11.0" />
-  <project name="razrqcom-dev-team/android_hardware_qcom_media-msm8226" path="hardware/qcom/media-msm8226"  remote="github"  revision="cm-11.0" />
+  <project name="team-moto-g/android_hardware_qcom_media-msm8226" path="hardware/qcom/media-msm8226"  remote="github"  revision="cm-11.0" />
 </manifest>
